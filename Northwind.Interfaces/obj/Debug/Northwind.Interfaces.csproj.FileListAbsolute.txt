@@ -18,3 +18,5 @@ C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\System.Web.
 C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\System.Web.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.dll.CodeAnalysisLog.xml
+C:\Users\canah\source\repos\Northwind\Northwind.Interfaces\bin\Debug\Northwind.Interfaces.dll.lastcodeanalysissucceeded

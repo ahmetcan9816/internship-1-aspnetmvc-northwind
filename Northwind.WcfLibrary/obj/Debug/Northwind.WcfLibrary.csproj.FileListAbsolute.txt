@@ -28,3 +28,5 @@ C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\System.Web.
 C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\System.Web.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\Northwind.WcfLibrary.dll.CodeAnalysisLog.xml
+C:\Users\canah\source\repos\Northwind\Northwind.WcfLibrary\bin\Debug\Northwind.WcfLibrary.dll.lastcodeanalysissucceeded

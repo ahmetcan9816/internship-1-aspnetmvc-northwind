@@ -1,6 +1,5 @@
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
-C:\Users\canah\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.AssemblyReference.cache
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
@@ -18,3 +17,5 @@ C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\System.Web.We
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll.CodeAnalysisLog.xml
+C:\Users\canah\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll.lastcodeanalysissucceeded

@@ -25,3 +25,5 @@ C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\System.Web.WebPage
 C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\System.Web.Razor.xml
 C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll.CodeAnalysisLog.xml
+C:\Users\canah\source\repos\Northwind\Northwind.Bll\bin\Debug\Northwind.Bll.dll.lastcodeanalysissucceeded
